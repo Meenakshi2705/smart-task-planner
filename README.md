@@ -23,8 +23,7 @@ The planner uses an AI model to analyze a goal and automatically generate a stru
 
 ## 🧩 Tech Stack
 **Frontend:** React  
-**Backend:** Node.js + Express  
-**Database (optional):** MongoDB  
+**Backend:** Node.js + Express    
 **AI Model:** OpenAI GPT / Mistral / Groq API  
 
 ---
